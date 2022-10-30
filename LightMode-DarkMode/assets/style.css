@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=Roboto:wght@100&display=swap');
+
+body{
+    background-color: #F5F9EF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    min-height: 230px;
+    font-family: 'Forum', cursive;
+}
+
+#content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer{
+  bottom: 0;
+  left: 0;
+  height: 20px;
+  padding: .25rem;
+  position: fixed;
+  width: 100%;
+  background-color: #DDE0D7;
+  color: black;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: small;
+}
+
+.darkMode{
+    background-color: #3A3B38;
+    color: #DDE0D7;
+}
+
+button{
+    border-radius: 2.5rem;
+    height: 2.5rem;
+    width: 8rem;
+    text-align: center;
+    border: none;
+    background-color: #3A3B38;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.buttonDarkMode{
+    background-color: #DDE0D7;
+    color: #3A3B38;
+}
