@@ -1,6 +1,6 @@
-document.getElementById("add").addEventListener("click", adicionarTask);
+document.getElementById("add").addEventListener("click", addTask);
 
-function adicionarTask() {
+function addTask() {
   let task = document.getElementById("newTask").value;
   let taskList = document.getElementById("taskList");
   let addTask = `
