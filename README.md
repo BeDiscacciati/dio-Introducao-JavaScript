@@ -1,8 +1,9 @@
-# Projetos Contador e To Do List
+# Projetos sugeridos durante curso na DIO.
 
-### Dois projetos sugeridos por Stephany Nusch durante curso ministrado na DIO.
+### Cursos ministrados por Stephany Nusch na DIO.
 
 Esse é o [GitHub da Stephany.](https://github.com/stebsnusch)
 
-O projeto Contador foi criado passo a passo durante o curso.<br>
-O projeto To Do List foi criado fora do curso.
+* Contador foi feito passo a passo durante o curso.
+* To Do List foi feito sem mentoria.
+* Light Mode - Dark Mode foi feito sem mentoria.
